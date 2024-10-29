@@ -899,7 +899,7 @@ body.active { overflow-y: hidden; }
   border: none;
   color: white;
   padding: 8px 4px;
-  font-size: 14px;
+  font-size: 12px;
   cursor: pointer;
   border-radius: 4px;
   transition: background-color 0.3s;
